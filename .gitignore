@@ -3,6 +3,7 @@
 
 # Vite
 app/dist/
+**/.vite/
 
 # Next.js
 my-portfolio/.next/
