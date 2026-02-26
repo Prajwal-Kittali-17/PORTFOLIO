@@ -6,6 +6,7 @@ app/dist/
 
 # Next.js
 my-portfolio/.next/
+my-portfolio/dist/
 my-portfolio/out/
 
 # Logs
