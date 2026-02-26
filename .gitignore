@@ -1,0 +1,15 @@
+# Dependencies
+**/node_modules/
+
+# Vite
+app/dist/
+
+# Next.js
+my-portfolio/.next/
+my-portfolio/out/
+
+# Logs
+**/*.log
+
+# OS
+.DS_Store
